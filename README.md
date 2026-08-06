@@ -42,13 +42,13 @@ $ (ask Claude Code: "help me price my SaaS")
 With the [`skills` CLI](https://skills.sh):
 
 ```bash
-npx skills add bradydward/claude-skills
+npx skills add bradywardai/claude-skills
 ```
 
 Or copy any skill directory directly into your project's `.claude/skills/`:
 
 ```bash
-git clone https://github.com/bradydward/claude-skills
+git clone https://github.com/bradywardai/claude-skills
 cp -r claude-skills/skills/pricing-strategy .claude/skills/
 ```
 
